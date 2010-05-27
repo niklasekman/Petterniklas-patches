@@ -3,6 +3,7 @@ A collection of QC patches I've written about on my blog, http://petterniklas.wo
 Most of these have only been tested in QC 3.1 on 10.5.8
 
 
-Synchronizing soundflies
-http://petterniklas.wordpress.com/2009/08/04/synchronizing-soundflies/
+- Synchronizing soundflies
+	This composition needs the Kineme Global Output MIDI Note patch.
+	http://petterniklas.wordpress.com/2009/08/04/synchronizing-soundflies/
 
